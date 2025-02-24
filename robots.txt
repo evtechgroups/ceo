@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /*/
+Disallow: /*.html$
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.json$
+Sitemap: https://founder.evtechgroups.com/sitemap.xml
