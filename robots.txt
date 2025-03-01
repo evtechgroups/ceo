@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /about/*
+Allow: /media/*
 Disallow: /?*
 Disallow: /*/
 Disallow: /*.html$
