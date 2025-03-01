@@ -1,12 +1,3 @@
 User-agent: *
 Allow: /
-Allow: /about/*
-Allow: /media/*
-Disallow: /?*
-Disallow: /*/
-Disallow: /*.html$
-Disallow: /*.php$
-Disallow: /*.js$
-Disallow: /*.css$
-Disallow: /*.json$
 Sitemap: https://founder.evtechgroups.com/sitemap.xml
